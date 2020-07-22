@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning devops tools like Kubernetes, Docker etc.
 - 💬 Ask me about: Warhammer lore
-- 📫 How to reach me: My email or 
+- 📫 How to reach me: My email or on LinkedIn
 - ⚡ Fun fact: I enjoy reading Warhammer 40k lore in my spare time.
 
 ### Skills
